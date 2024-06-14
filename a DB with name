@@ -1,0 +1,9 @@
+born(rishi, 30,11,2002).
+born(namu, 12,2,2004).
+born(prasoona, 10,9,2003).
+born(sreekanth, 15,3,2005).
+born(vyshu, 11,02,2003).
+
+QUERIES
+born(X, 12, 2, 2004).
+X=namu
