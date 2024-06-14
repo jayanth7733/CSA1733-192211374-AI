@@ -1,0 +1,5 @@
+parent(ravi, lakshmi).
+parent(ravi, sai).
+parent(lakshmi, anita).
+parent(lakshmi, prasad).
+parent(prasad, vamsi).
